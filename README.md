@@ -5,7 +5,6 @@ _My Name_: **Dmitry**
 ## Prefered languages
 - Rust
 - Golang
-- Python
 
 <!--
 **sillent/sillent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
